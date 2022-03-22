@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import Dial from '../Dial/Dial';
 import Display from '../Display/Display';
 
 
